@@ -1,4 +1,4 @@
-﻿# Data Extension Helper in Cloud Pages
+# Data Extension Helper in Cloud Pages
 
 This is a helper to find Data Extensions faster. Trying to find in Marketing Cloud may be slow
 
@@ -26,7 +26,7 @@ Access Content Builder
 
 Create a Code Snippet
 
-![Create Code Snippet](https://user-images.githubusercontent.com/26888271/131375593-62b7499c-10bd-4a0c-8b0c-04a9e7920c31.png)
+![Create Code Snippet](https://user-images.githubusercontent.com/26888271/131377054-26ffc412-fa72-4557-86dd-449a4aa52ee7.png)
 
 Insert the code [CodeSnippet.js](./CodeSnippet.js) and save it
 
